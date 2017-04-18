@@ -5,6 +5,10 @@
 
 [Fundación microbit](http://microbit.org/es/)
 
+[Microbit es totalmente opensource](https://www.microbit.co.uk/open_source)
+
+[Github de microbit](https://github.com/bbcmicrobit)
+
 ### [Hardware](http://microbit.org/es/hardware/)
 
 
@@ -29,7 +33,10 @@ ARM M0 (32 bits) a 16MHz con 16k de RAM
 
 #### Comunicaciones
 
-Bluetooth de bajo consumo
+[Bluetooth](http://microbit.org/es/mobile/) de bajo consumo
+
+[App microbit](https://play.google.com/store/apps/details?id=com.samsung.microbit&hl=es) Nos permite interaccionar con la placa e incluso programarla
+
 
 #### Leds
 
@@ -44,3 +51,13 @@ Bluetooth de bajo consumo
 [Programando en python](http://python.microbit.org/)
 
 [Python en Mibrobit](https://www.python.org/community/microbit/)
+
+### Dónde comprarlo
+
+[Revendedores](http://microbit.org/es/resellers/)
+
+[También en Amazon](https://www.amazon.es/BBC-MB80-Micro-Bit/dp/B01G8WUGWU/ref=sr_1_2?ie=UTF8&qid=1492513787&sr=8-2&keywords=microbit)
+
+### Documentación
+
+[Getting started](http://microbit.org/es/start/)
