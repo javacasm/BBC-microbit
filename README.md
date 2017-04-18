@@ -18,13 +18,14 @@ Funciona a 3V y dispone de un conector de bateria y de alimentación por USB (Mi
 #### Micro
 ARM M0 (32 bits) a 16MHz con 16k de RAM
 
-#### Sensores
+#### Sensores/ [I/O](http://microbit.org/es/hardware/pins/)
 
 * Acelerómetro
 * Brújula
 * 2 Botones
 * 3 entradas analógicas (0,1,2)
 * 20 pines I/O
+
 
 #### Comunicaciones
 
