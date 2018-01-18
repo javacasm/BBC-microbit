@@ -40,7 +40,7 @@ ARM M0 (32 bits) a 16MHz con 16k de RAM
 
 #### Leds
 
-25 (5x5) leds programables individualemente
+25 (5x5) leds programables individualmente
 
 
 
@@ -51,6 +51,8 @@ ARM M0 (32 bits) a 16MHz con 16k de RAM
 [Programando en python](http://python.microbit.org/)
 
 [Python en Mibrobit](https://www.python.org/community/microbit/)
+
+[Programando con el IDE de Arduino](https://learn.adafruit.com/use-micro-bit-with-arduino?view=all)
 
 ### Dónde comprarlo
 
