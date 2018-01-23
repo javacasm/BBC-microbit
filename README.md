@@ -60,6 +60,11 @@ ARM M0 (32 bits) a 16MHz con 16k de RAM
 
 [También en Amazon](https://www.amazon.es/BBC-MB80-Micro-Bit/dp/B01G8WUGWU/ref=sr_1_2?ie=UTF8&qid=1492513787&sr=8-2&keywords=microbit)
 
+
+Complementos/shields
+
+[Placa adaptadora 3.3v/5v y de fácil conexión de sensores](https://www.elecfreaks.com/12396.html)
+
 ### Documentación
 
 [Getting started](http://microbit.org/es/start/)
