@@ -46,6 +46,8 @@ ARM M0 (32 bits) a 16MHz con 16k de RAM
 
 ### Programación
 
+[Revisión sobre las diferentes plataformas](https://hackaday.com/2017/12/02/exploring-the-bbc-microbit-software-stack/)
+
 [Programando con bloques](https://pxt.microbit.org/?lang=es)
 
 [Programando en python](http://python.microbit.org/)
@@ -65,6 +67,16 @@ Complementos/shields
 
 [Placa adaptadora 3.3v/5v y de fácil conexión de sensores](https://www.elecfreaks.com/12396.html)
 
+### Robots
+
+http://www.instructables.com/id/Remote-Controlled-Microbit-Robot/
+
+![robot](https://cdn.instructables.com/F0W/1HA0/J30ST2ON/F0W1HA0J30ST2ON.LARGE.jpg)
+
 ### Documentación
 
 [Getting started](http://microbit.org/es/start/)
+
+### Recursos
+
+[Nice review](https://www.youtube.com/watch?v=7qnSsc54bEQ)
