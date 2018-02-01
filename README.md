@@ -56,6 +56,8 @@ ARM M0 (32 bits) a 16MHz con 16k de RAM
 
 [Programando con el IDE de Arduino](https://learn.adafruit.com/use-micro-bit-with-arduino?view=all)
 
+[Flappy bird en python](https://www.elecfreaks.com/12454.html)
+
 ### Dónde comprarlo
 
 [Revendedores](http://microbit.org/es/resellers/)
