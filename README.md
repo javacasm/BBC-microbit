@@ -79,6 +79,12 @@ http://www.instructables.com/id/Remote-Controlled-Microbit-Robot/
 
 [Getting started](http://microbit.org/es/start/)
 
+[Placa conexión con octupus](https://www.elecfreaks.com/12396.html)
+
+[Usando la Brújula](https://www.elecfreaks.com/12412.html)
+
+[Arcade in javascript](https://www.elecfreaks.com/12416.html)
+
 ### Recursos
 
 [Nice review](https://www.youtube.com/watch?v=7qnSsc54bEQ)
