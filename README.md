@@ -13,7 +13,9 @@
 
 
 ![hardware](http://microbit.org/images/microbit-hardware.png)
-![pinout](http://www.pighixxx.com/test/wp-content/uploads/2017/02/microbit_pinout_v10.png)
+![pinout](https://cdn-blog.adafruit.com/uploads/2017/03/microbit_pinout_v10.png)
+
+![pinout2](https://microbit.org/images/microbit-pins.jpg)
 
 #### Alimentación
 
@@ -24,7 +26,7 @@ Funciona a 3V y dispone de un conector de bateria y de alimentación por USB (Mi
 ARM M0 (32 bits) a 16MHz con 16k de RAM
 
 
-#### Sensores/ [I/O](http://microbit.org/es/hardware/pins/)
+#### [Sensores](https://microbit.org/guide/features/)
 
 * Acelerómetro
 * Brújula
@@ -36,6 +38,8 @@ ARM M0 (32 bits) a 16MHz con 16k de RAM
 #### Comunicaciones
 
 [Bluetooth](http://microbit.org/es/mobile/) de bajo consumo
+
+Comunicaciones via radio entre distintas microbits
 
 [App microbit](https://play.google.com/store/apps/details?id=com.samsung.microbit&hl=es) Nos permite interaccionar con la placa e incluso programarla
 
