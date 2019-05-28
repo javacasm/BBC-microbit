@@ -19,8 +19,10 @@
 
 Funciona a 3V y dispone de un conector de bateria y de alimentación por USB (MicroUSB)
 
+
 #### Micro
 ARM M0 (32 bits) a 16MHz con 16k de RAM
+
 
 #### Sensores/ [I/O](http://microbit.org/es/hardware/pins/)
 
@@ -41,8 +43,6 @@ ARM M0 (32 bits) a 16MHz con 16k de RAM
 #### Leds
 
 25 (5x5) leds programables individualmente
-
-
 
 ### Programación
 
@@ -74,6 +74,11 @@ Complementos/shields
 http://www.instructables.com/id/Remote-Controlled-Microbit-Robot/
 
 ![robot](https://cdn.instructables.com/F0W/1HA0/J30ST2ON/F0W1HA0J30ST2ON.LARGE.jpg)
+
+#### [MaQueen](./MaQueen.md)
+
+![Maqueen](https://raw.githubusercontent.com/DFRobot/DFRobotMediaWikiImage/master/Image/ROB0148Maqueen.jpg)
+
 
 ### Documentación
 
