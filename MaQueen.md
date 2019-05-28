@@ -8,3 +8,5 @@ Robot MaQueen
 
 
 ![Detalles](https://github.com/Frances9/ROB0148/blob/master/%E9%BA%A6%E6%98%863.0%E5%8A%9F%E8%83%BD%E8%8B%B1%E6%96%87.png?raw=true)
+
+![Detalles2](https://github.com/Frances9/ROB0148/blob/master/%E9%BA%A6%E6%98%863.0%E5%8A%9F%E8%83%BD%E8%8B%B1%E6%96%87.png?raw=true)
