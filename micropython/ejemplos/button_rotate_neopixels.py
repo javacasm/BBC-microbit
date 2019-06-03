@@ -65,10 +65,10 @@ def randState():
 
 Gradient()
 while True:
-    if button_a.is_pressed():
+    if button_a.is_pressed() or pin0.is_touched():
         display.show(Image.ARROW_W)
         rotateDown()
-    elif button_b.is_pressed():
+    elif button_b.is_pressed() or pin1.is_touched(:
         display.show(Image.ARROW_E)
         rotateUp()
     else:
