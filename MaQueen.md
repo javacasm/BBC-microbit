@@ -4,10 +4,13 @@ Robot MaQueen
 
 
 
-[Documentación](https://wiki.dfrobot.com/micro:Maqueen_for_micro:bit_SKU:ROB0148-E(ROB0148))
+[Documentación dfrobot](https://wiki.dfrobot.com/micro:Maqueen_for_micro:bit_SKU:ROB0148-E(ROB0148))
 
 
 ![Detalles](https://github.com/Frances9/ROB0148/blob/master/%E9%BA%A6%E6%98%863.0%E5%8A%9F%E8%83%BD%E8%8B%B1%E6%96%87.png?raw=true)
+
+
+![pinout](./images/maqueen_pinout.jpg)
 
 
 ### Ejemplos
@@ -25,3 +28,7 @@ Robot MaQueen
 [Huyo de los obstaculos](https://makecode.microbit.org/_C888wYRmrFAf)
 
 [Siguelineas](https://makecode.microbit.org/_ApcYWLC3z7ok)
+
+### Programando con Arduino
+
+https://www.instructables.com/id/Using-the-DF-Robot-Micro-Maqueen-MicroBit-Robot-Pl/

@@ -23,3 +23,8 @@ Tiene REPL (Read-Evaluate-Print Loop: Conexión directa a la consola que permite
         sudo apt install python3 python3-pip python3-tk
         sudo pip3 install thonny
         sudo pip3 install thonny-microbit
+        
+### Tutorial
+
+
+https://core-electronics.com.au/tutorials/micropython-workshop-for-microbit.html
