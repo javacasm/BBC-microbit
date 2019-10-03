@@ -21,3 +21,4 @@ http://microes.org/descargas/manual-de-programacion-microbit.pdf
 [pdf](https://onedrive.live.com/?authkey=%21AEWPObnLnAobvkw&cid=416406873CB120AB&id=416406873CB120AB%21141&parId=416406873CB120AB%21111&o=OneUp)
 
 
+Retos y proyectos con micro:bit https://projects.raspberrypi.org/en/projects?hardware[]=microbit
