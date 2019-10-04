@@ -73,3 +73,9 @@ https://www.instructables.com/id/Remote-Controlled-Microbit-Robot/
 ### Ejemplos
 [Sending data using Radio](https://microbit.org/en/2018-09-03-python-mu-datalogging/)
 
+
+[Networking with micro:bit in python](https://microbit.nominetresearch.uk/networking-book-online-python/)
+[C'odigo en python](https://github.com/nominetresearch/microbit-networking-book-python)
+
+[Networking with micro:bit with blocks](https://microbit.nominetresearch.uk/networking-book-online/)
+[C'odigo en bloques](https://github.com/nominetresearch/microbit-networking-book)
