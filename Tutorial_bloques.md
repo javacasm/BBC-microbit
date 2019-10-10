@@ -108,7 +108,7 @@ Permiten usar extensiones que añaden más bloques
 
 PROYECTO termostato: los botones fijan la temperatura objetivo y la otra barra nos muestra la temperatura actual
 
-PROYECTO maquilla de numeros (innalámbrica)
+PROYECTO maquinilla para dar numeros  en la tienda (innalámbrica)
 
 
 
