@@ -67,3 +67,7 @@ Movimientos random https://makecode.microbit.org/_EkmXK2DV3Edq
 ### Programando con Arduino
 
 https://www.instructables.com/id/Using-the-DF-Robot-Micro-Maqueen-MicroBit-Robot-Pl/
+
+### Recursos 
+
+https://juegosrobotica.es/podcast-036/
