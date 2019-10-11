@@ -11,7 +11,7 @@ Robot MaQueen
 ![pinout](./images/maqueen_pinout.jpg)
 
 
-### Programación con blooques
+### Programación con bloques
 
 Añadimos la extensión https://github.com/DFRobot/pxt-maqueen
 
@@ -49,7 +49,6 @@ Movimientos random https://makecode.microbit.org/_EkmXK2DV3Edq
 
 ![Motores_random.png](./images/Motores_random.png)
  
-
 [Movimientos básicos](https://makecode.microbit.org/_8mva3TEVH0rM)
 
 [Sonidos y leds delanteros](https://makecode.microbit.org/_XrVhsU9tuH5x)
