@@ -34,7 +34,7 @@ Tenemos una distanciaObjetivo (15cm en el ejemplo)
 
 En el [vídeo](https://youtu.be/B8Eli8WV7_M) vemos que se produce un comportamiento oscilatorio.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B8Eli8WV7_M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![control 1](./images/controlMovimientov1.gif)
 
 ## Versión 2: Margen en los puntos de actuación - Histéresis
 
@@ -46,18 +46,19 @@ Para solucionarlo vamos a establecer un margen en la medida, por encima y por de
 
 En el [vídeo](https://youtu.be/aJpDed_MlTU) vemos como ahora el comportamiento es el esperado
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aJpDed_MlTU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![control 2](./images/controlMovimientov2.gif)
 
 ## Versión 3: respuesta proporcional al error
 
 Hacemos que la velocidad de los movimientos sea proporcional a la diferencia con la distancia que queremos conseguir
 
-![Version 3](./images/ManteniendoDistanciaV3.png
+![Version 3](./images/ManteniendoDistanciaV3.png)
 
 [Programa V3](https://makecode.microbit.org/_AHtKMk8DUDcx)
 
 En el [vídeo](https://youtu.be/ce6OpFJk3P8) vemos el comportamiento
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ce6OpFJk3P8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![control 3](./images/controlMovimientov3.gif)
+
 
 
