@@ -28,6 +28,8 @@ Tenemos una distanciaObjetivo (15cm en el ejemplo)
     * Si la distancia es mayor nos acercamos 
     * Si es menor nos alejamos
     * Si la distancia es igual nos quedamos parados
+
+
 ![Version 1](./images/ManteniendoDistanciaV1.png)
 
 [Programa v1](https://makecode.microbit.org/_2oddVg9KhbC7)
@@ -50,13 +52,15 @@ En el [vídeo](https://youtu.be/aJpDed_MlTU) vemos como ahora el comportamiento 
 
 ## Versión 3: respuesta proporcional al error
 
-Hacemos que la velocidad de los movimientos sea proporcional a la diferencia con la distancia que queremos conseguir
+Vamos a mejorar el comportamiento: haremos que la velocidad de los movimientos sea proporcional a la diferencia con la distancia que queremos conseguir. Es decir **cuanto más alejado del punto de equilibrio con más intensidad intentamos volver**
 
 ![Version 3](./images/ManteniendoDistanciaV3.png)
 
 [Programa V3](https://makecode.microbit.org/_AHtKMk8DUDcx)
 
-En el [vídeo](https://youtu.be/ce6OpFJk3P8) vemos el comportamiento
+Para optimizar el comportamiento deberíamos de ajusta el valor de la constante de proporcionalidad. En este caso está fijada a 3 * 255 /DistanciaObjetivo.
+
+En el [vídeo](https://youtu.be/ce6OpFJk3P8) vemos este comportamiento
 
 ![control 3](./images/controlMovimientov3.gif)
 
