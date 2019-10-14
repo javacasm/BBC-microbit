@@ -2,6 +2,16 @@
 
 Utilizar una micro:bit de una manera inalámbrica con scratch nos abre un mundo enorme de posibilidades de interación 
 
+Para que funcione necesitamos que nuestro PC tenga un adaptador Bluetooth 4.0 LE 
+
+En linux podemos saber si tiene estas capacidades con
+
+        btmgmt info
+
+![Bluetooth_settings](./images/Bluetooth_settings.png)
+
+La versión debe ser al menos 6.0 y debe soporta le
+
 En windows y MacOs sólo tenemos que instalar [Scratch-Link](https://scratch.mit.edu/microbit)
 
 Veamos como hacerlo para Linux siguendo el hilo https://scratch.mit.edu/discuss/topic/315200/ 
