@@ -62,3 +62,5 @@ Conectamos con nuestra micro:bit (la conexión se hace por bluetooth)
 ![Scratch-microbit](./images/Scratch-microbit.png)
 
 Podemos trabajar con nuestra micro:bit
+
+https://resources.scratch.mit.edu/www/cards/en/microbit-cards.pdf
