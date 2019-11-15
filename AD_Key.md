@@ -11,6 +11,8 @@
 
 [Escorna:bit](makecode.microbit.org/_HCjRR92dFXXz)
 
+Usa [Robot:bit](https://www.kittenbot.cc/products/robotbit-robotics-expansion-board-for-micro-bit)
+
 ![](./images/escorna:bit.png)
 
 ![](./images/escorna:bit.jpg)
