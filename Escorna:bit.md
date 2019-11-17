@@ -15,4 +15,4 @@ Escorna:bit el hermano pequeño de [Escornabot](https://escornabot.com/web/es)
 
 ![escorna:bit.png](./images/escorna:bit.png)
 
-![Programa](makecode.microbit.org/_HCjRR92dFXXz)
+[Programa](makecode.microbit.org/_HCjRR92dFXXz)
