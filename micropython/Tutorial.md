@@ -46,50 +46,55 @@ boat = Image("05050:"
 
 display.show(boat)
 
+[Code](./codigo/gray_image.py)
+
 Si mostramos varias imágenes a lo largo del tiempo tendremos una animacion
 
 ## Animaciones
 
-from microbit import *
+	from microbit import *
+	
+	boat1 = Image("05050:"
+	              "05050:"
+	              "05050:"
+	              "99999:"
+	              "09990")
+	
+	boat2 = Image("00000:"
+	              "05050:"
+	              "05050:"
+	              "05050:"
+	              "99999")
+	
+	boat3 = Image("00000:"
+	              "00000:"
+	              "05050:"
+	              "05050:"
+	              "05050")
+	
+	boat4 = Image("00000:"
+	              "00000:"
+	              "00000:"
+	              "05050:"
+	              "05050")
+	
+	boat5 = Image("00000:"
+	              "00000:"
+	              "00000:"
+	              "00000:"
+	              "05050")
+	
+	boat6 = Image("00000:"
+	              "00000:"
+	              "00000:"
+	              "00000:"
+	              "00000")
+	
+	all_boats = [boat1, boat2, boat3, boat4, boat5, boat6]
+	display.show(all_boats, delay=200)
 
-boat1 = Image("05050:"
-              "05050:"
-              "05050:"
-              "99999:"
-              "09990")
 
-boat2 = Image("00000:"
-              "05050:"
-              "05050:"
-              "05050:"
-              "99999")
-
-boat3 = Image("00000:"
-              "00000:"
-              "05050:"
-              "05050:"
-              "05050")
-
-boat4 = Image("00000:"
-              "00000:"
-              "00000:"
-              "05050:"
-              "05050")
-
-boat5 = Image("00000:"
-              "00000:"
-              "00000:"
-              "00000:"
-              "05050")
-
-boat6 = Image("00000:"
-              "00000:"
-              "00000:"
-              "00000:"
-              "00000")
-
-all_boats = [boat1, boat2, boat3, boat4, boat5, boat6]
-display.show(all_boats, delay=200)
+[Code](./codigo/image_anim.py)
 
 Con solo ver las posibilidades de mostrar animaciones con niveles de grises ya  se nota la mayor potencia de python frente al editor de bloques 
 
@@ -116,6 +121,23 @@ while True:
         display.show(Image.SAD)
 
 display.clear()
+
+
+### Interrupciones
+
+	from machine import Pin
+	
+	def callback(p):
+		print('pin change', p)
+	
+	p0 = Pin(0, Pin.IN)
+	p2 = Pin(2, Pin.IN)
+	p0.irq(trigger=Pin.IRQ_FALLING, handler=callback)
+	p2.irq(trigger=Pin.IRQ_RISING | Pin.IRQ_FALLING, handler=callback)
+	
+[Code](./codigo/interrupciones.py)
+
+[Referencia](http://docs.micropython.org/en/v1.9.3/esp8266/esp8266/tutorial/pins.html#external-interrupts)
 
 ## Recursos
 
