@@ -1,6 +1,6 @@
 # BBC-microbit
 
-Borrado y recolección de datos/ejemplos y enlaces para trabajos con micro:bit
+Borrador y recolección de datos/ejemplos y enlaces para trabajos con micro:bit
 
 by José Antonio Vacas @javacasm
 
