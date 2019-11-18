@@ -1,15 +1,25 @@
 # BBC-microbit
 
+Borrado y recolección de datos/ejemplos y enlaces para trabajos con micro:bit
+
+by José Antonio Vacas @javacasm
+
+![Licencia CC](./images/Licencia_CC.png)
+
+
 ![microbit front](http://microbit.org/images/microbit-front.png)
 ![microbit back](http://microbit.org/images/microbit-back.png)
+
+
+## Recursos básicos
 
 [Fundación microbit](http://microbit.org/es/)
 
 [Microbit es totalmente opensource](https://www.microbit.co.uk/open_source)
 
-[Github de microbit](https://github.com/bbcmicrobit)
+[Github oficial de microbit](https://github.com/bbcmicrobit)
 
-### [Hardware](http://microbit.org/es/hardware/)
+## [Hardware](http://microbit.org/es/hardware/)
 
 
 ![hardware](http://microbit.org/images/microbit-hardware.png)
