@@ -52,3 +52,17 @@ Hardware interface
 
 
 [Documentación](https://www.kittenbot.cc/products/robotbit-robotics-expansion-board-for-micro-bit)
+
+
+[Documentación de la extensión](https://makecode.microbit.org/pkg/kittenbot/pxt-robotbit)
+
+[github de la extensión](https://github.com/kittenbot/pxt-robotbit)
+
+## micropython version
+
+[from windows version of mu-editor](https://www.kittenbot.cc/pages/software) Extract the file, get pkgs/mu/resources/robotbit.py
+
+Mu version for esp https://github.com/dybber/mu.git
+
+(truco para que funcione pip3 install mu-editor)
+
