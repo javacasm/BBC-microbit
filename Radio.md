@@ -79,3 +79,8 @@ https://www.instructables.com/id/Remote-Controlled-Microbit-Robot/
 
 [Networking with micro:bit with blocks](https://microbit.nominetresearch.uk/networking-book-online/)
 [C'odigo en bloques](https://github.com/nominetresearch/microbit-networking-book)
+
+
+## Módulo compatible con Makecode protocol
+
+https://github.com/rhubarbdog/microbit-radio
