@@ -6,8 +6,12 @@
 
 http://microes.org/descargas/manual-de-programacion-microbit.pdf
 
+[ML with micro:bit](https://www.youtube.com/watch?v=JOVrqi9lU6s&feature=youtu.be)
+
+[Proyectos](https://docs.google.com/presentation/d/e/2PACX-1vRjsETuVDZIPnVeQHt5n73W9Be03mXcrPJOpFMXByxP-X7aNWG8r9S5f6FBLhNnS-L2Zu2ekyYbhDfv/pub?start=false&loop=false&delayms=60000&slide=id.gaf37a0f3b0_0_1472)
 
 
+[Lessons](https://www.microbit.org/projects/do-your-bit/#lessons)
 ## Curso de ingenieria del software
 
 [Material del alumno](https://makecode.microbit.org/courses/csintro)
